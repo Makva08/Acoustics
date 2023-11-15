@@ -1,3 +1,4 @@
+# This is the code for double rigid panel case, in which first wave starts as a unit amplitude
 from sympy import symbols, solve, exp
 
 k1, x, k2, k3, r = symbols("k1 x k2 k3 r")
